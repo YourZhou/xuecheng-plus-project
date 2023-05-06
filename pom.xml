@@ -11,6 +11,10 @@
     <modules>
         <module>xuecheng-plus-parent</module>
         <module>xuecheng-plus-base</module>
+        <module>xuecheng-plus-content</module>
+        <module>xuecheng-plus-content-model</module>
+        <module>xuecheng-plus-content-api</module>
+        <module>xuecheng-plus-content/xuecheng-plus-content-service</module>
     </modules>
 
     <properties>
