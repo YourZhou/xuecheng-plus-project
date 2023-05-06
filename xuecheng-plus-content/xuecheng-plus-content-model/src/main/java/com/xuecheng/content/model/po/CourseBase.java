@@ -11,6 +11,7 @@ import java.util.Date;
 
 /**
  * 课程基本信息
+ * @author YiZhou
  * @TableName course_base
  */
 @TableName(value ="course_base")

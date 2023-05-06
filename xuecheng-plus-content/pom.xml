@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
     <artifactId>xuecheng-plus-content</artifactId>
     <modules>
-        <module>xuecheng-plus-content-api</module>
+        <module>xuecheng-plus-content-web</module>
         <module>xuecheng-plus-content-model</module>
         <module>xuecheng-plus-content-service</module>
     </modules>

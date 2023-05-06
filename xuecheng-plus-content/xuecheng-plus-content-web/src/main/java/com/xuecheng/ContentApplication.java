@@ -1,8 +1,8 @@
 package com.xuecheng;
 
+import com.spring4all.swagger.EnableSwagger2Doc;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 
 /**
@@ -10,7 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @date 2023/5/6
  * @Description 内容管理服务启动类
  */
-@EnableSwagger2
+@EnableSwagger2Doc
 @SpringBootApplication
 public class ContentApplication {
     public static void main(String[] args) {
